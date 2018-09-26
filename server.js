@@ -7,7 +7,7 @@ app.get('/', function(req, res){
 
 app.use(express.static('static'));
 
-app.listen(8080, function(err){
+app.listen(8080 || process.env.PORT, function(err){
     if(err){
         console.log(err);
     }else{
