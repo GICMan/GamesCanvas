@@ -1,0 +1,45 @@
+{
+    "length": 1000,
+    "obsticles": [
+        {
+            "type": "c",
+            "x": -29,
+            "y": 0,
+            "startingY": 100,
+            "xVel": 2,
+            "yVel": 0,
+            "w": 20,
+            "h": 20
+        },
+        {
+            "type": "c",
+            "x": 389,
+            "y": 0,
+            "startingY": 100,
+            "xVel": -2,
+            "yVel": 0,
+            "w": 20,
+            "h": 20
+        },
+        {
+            "type": "c",
+            "x": -39,
+            "y": 0,
+            "startingY": 300,
+            "xVel": 2,
+            "yVel": 0,
+            "w": 20,
+            "h": 20
+        },
+        {
+            "type": "c",
+            "x": 399,
+            "y": 0,
+            "startingY": 300,
+            "xVel": -2,
+            "yVel": 0,
+            "w": 20,
+            "h": 20
+        }
+    ]
+}
